@@ -50,6 +50,7 @@ My work sits at the intersection of **frontier AI engineering** and **responsibl
 I believe the next generation of AI won't be defined by how capable models are —
 it will be defined by how **reliably**, **safely**, and **accountably** they operate in the real world.
 That's the problem space I want to work in.
+
 ---
 
 ## 🛠️ Tech Stack
