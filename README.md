@@ -1,12 +1,10 @@
-<h1 align="center">Allen Joshua</h1>
-<h3 align="center">🤖 AI Engineer · Agentic Systems · LLM Infrastructure · AI Governance</h3>
+# Hi, I'm Allen Joshua 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/allen-joshua-264983252"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://allenjoshua16.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-1F3864?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:allenjoshua1217@gmail.com"><img src="https://img.shields.io/badge/Email-allenjoshua1217@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=allenjoshua16&color=1F3864&style=flat"/>
-</p>
+### AI Engineer · Agentic Systems · LLM Infrastructure · AI Governance | M.S. Data Science @ UTA
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/allen-joshua-264983252)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F3864?style=flat&logo=github&logoColor=white)](https://allenjoshua16.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:allenjoshua1217@gmail.com)
 
 ---
 
@@ -20,60 +18,38 @@ My work sits at the intersection of **frontier AI engineering** and **responsibl
 
 ---
 
-## ⚙️ What I Build
+## 🚀 What I Build
 
-```
-🤖  Autonomous AI Agents          →  Multi-step reasoning · Tool use · Memory management
-🔗  Multi-Agent Orchestration     →  LangChain · LangGraph · MCP Servers · CrewAI
-📚  RAG & Knowledge Systems       →  FAISS · Chroma · Semantic Search · Embeddings
-🛡️  AI Governance & Safety        →  Policy-driven drift detection · Agent trajectory evaluation
-🧪  LLM Evaluation Frameworks     →  Benchmarking · Failure mode analysis · Output auditing
-⚡  LLM Infrastructure            →  Latency optimization · Async pipelines · Model monitoring
-🌐  Production Deployment         →  FastAPI · Docker · GitHub Actions CI/CD · AWS
-```
+- 🤖 **Autonomous AI Agents** — Multi-step reasoning · Tool use · Memory management · Anthropic Claude API
+- 🔗 **Multi-Agent Orchestration** — LangChain · LangGraph · MCP Servers · CrewAI
+- 📚 **RAG & Knowledge Systems** — FAISS · Chroma · Semantic Search · Embeddings
+- 🛡️ **AI Governance & Safety** — Policy-driven drift detection · Agent trajectory evaluation
+- 🧪 **LLM Evaluation Frameworks** — Benchmarking · Failure mode analysis · Output auditing
+- ⚡ **Production Systems** — FastAPI · Docker · GitHub Actions CI/CD · AWS
 
 ---
 
 ## 🔬 Core Expertise
 
-### 🤖 Agentic AI Systems
-Building autonomous agents that perceive, reason, and act — not demos, but production systems that handle real-world complexity. Experienced with **stateful graph-based workflows** (LangGraph), **tool-augmented agents** (function calling, MCP), **multi-agent coordination**, and **memory management** across conversation turns.
-
-### 🛡️ AI Governance & Policy Enforcement
-Contributor to **Microsoft's Agent Governance Toolkit (AGT)** — added production-ready **data drift governance checks** (KS test, PSI, Chi-squared) and designed **policy-driven drift governance** via `policy.yaml` configuration. Contributor to **Google's `adk-python`** evaluator — implementing `ignore_args` support for flexible tool trajectory evaluation.
-
-### 📚 RAG & Retrieval Systems
-End-to-end RAG pipeline development including **embedding optimization**, **chunking strategies**, **hybrid retrieval**, **reranking**, **vector database management** (FAISS, Chroma), and **dynamic knowledge synthesis** for real-time decision-making.
-
-### 🧪 LLM Evaluation & Red-Teaming
-Designing evaluation frameworks that stress-test AI reasoning — identifying **failure modes**, **data leakage**, **hallucination patterns**, and **edge case behaviors** across diverse real-world scenarios with structured, ground-truth solution authoring.
+- **Agentic AI Systems** — Building autonomous agents that perceive, reason, and act in production workflows using stateful graph-based systems, tool-augmented agents, multi-agent coordination, and memory management.
+- **AI Governance & Policy Enforcement** — Contributing to governance tooling with statistical drift checks, policy-driven monitoring, and flexible agent evaluation workflows.
+- **RAG & Retrieval Systems** — Developing end-to-end RAG pipelines with embedding optimization, chunking strategies, hybrid retrieval, reranking, and vector database management.
+- **LLM Evaluation & Red-Teaming** — Designing frameworks that stress-test reasoning, identify failure modes, reduce hallucination risk, and validate real-world edge cases.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI / LLM**
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=flat&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-1565C0?style=flat&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=flat&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Servers-6A1B9A?style=flat&logoColor=white)
-
-**ML / Deep Learning**
-
+![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=flat&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Vision Transformers](https://img.shields.io/badge/Vision_Transformers-0277BD?style=flat&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP_Explainability-43A047?style=flat&logoColor=white)
-
-**Infrastructure**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -85,48 +61,11 @@ Designing evaluation frameworks that stress-test AI reasoning — identifying **
 
 ## 📌 Featured Projects
 
-### 🤖 [Autonomous Multi-Agent Research System](https://github.com/allenjoshua16/autonomous-multi-agent-research-system)
-> *Production-grade agentic AI backend — MCP servers · RAG · LangGraph · Real-time monitoring*
-
-A fully deployed multi-agent orchestration system built with **LangChain**, **LangGraph**, and **Anthropic Claude API** — featuring MCP server connectivity, FAISS vector database RAG pipelines, Redis caching for sub-100ms latency, PostgreSQL persistent memory, async request handling, token cost monitoring, and GitHub Actions CI/CD. Not a notebook — a production system.
-
-`Python` `LangChain` `LangGraph` `Claude API` `MCP` `FastAPI` `Docker` `PostgreSQL` `Redis` `FAISS`
-
----
-
-### 🛡️ [Microsoft Agent Governance Toolkit — Contributor](https://github.com/microsoft/agent-governance-toolkit)
-> *PR #2858 — Production data drift governance checks for AI agent monitoring*
-
-Contributed **data drift governance checks** to Microsoft's open-source Agent Governance Toolkit — implementing **KS test**, **PSI (Population Stability Index)**, and **Chi-squared** statistical tests with configurable thresholds. Designed **policy-driven drift governance** via `policy.yaml` configuration for enterprise AI compliance enforcement. Real governance infrastructure used by production AI systems.
-
-`Python` `AI Governance` `Statistical Testing` `Policy Enforcement` `Open Source`
-
----
-
-### 🔧 [Google ADK Python — Contributor](https://github.com/google/adk-python)
-> *Issue #4794 — `ignore_args` support for tool trajectory evaluator*
-
-Contributing `ignore_args` parameter support to Google's `adk-python` agent evaluation framework — enabling flexible tool trajectory evaluation that ignores specified argument fields during comparison, with full test coverage and Windows-compatible environment support.
-
-`Python` `LLM Evaluation` `Agent Testing` `Open Source` `Google ADK`
-
----
-
-### 📊 [AI Data Storytelling Platform — DataStory](https://github.com/allenjoshua16/datastory)
-> *7-stage LLM orchestration pipeline · Deployed on Render + Vercel*
-
-Multi-agent AI platform that transforms raw datasets into interactive data narratives — featuring a 7-stage LLM orchestration pipeline, deterministic chart engine, Plotly visualizations, and a React + TailwindCSS frontend. Fully deployed with Docker and GitHub Actions CI/CD.
-
-`Python` `Claude API` `LangChain` `React` `FastAPI` `Vite` `TailwindCSS` `Docker` `Render` `Vercel`
-
----
-
-### 🔬 [ViT Robustness Lab — IEEE Award Winner](https://github.com/allenjoshua16/ViT-Robustness-Lab)
-> *Adversarial robustness evaluation for Vision Transformers · Most Novel & Creative Award*
-
-Rigorous adversarial robustness evaluation framework for Vision Transformers under multiple perturbation conditions — with SHAP-based feature attribution, confidence scoring, real-time interactive web interface, and comprehensive failure mode documentation. Winner of Most Novel & Creative Award (CSE-5360, Spring 2026).
-
-`Python` `PyTorch` `Vision Transformers` `SHAP` `Deep Learning` `Adversarial ML`
+| 🔗 Project | 📝 Description | 🛠️ Stack |
+|-----------|---------------|---------|
+| [🤖 Autonomous Multi-Agent Research System](https://github.com/allenjoshua16/autonomous-multi-agent-research-system) | Production-grade agentic AI backend with MCP servers, RAG pipelines, LangGraph workflows, Redis caching, PostgreSQL memory, token cost monitoring, and CI/CD | Python · LangChain · LangGraph · Claude API · MCP · FastAPI · Docker · PostgreSQL · Redis · FAISS |
+| [📊 AI Data Storytelling Platform](https://github.com/allenjoshua16/datastory) | 7-stage LLM orchestration pipeline that transforms raw datasets into interactive narratives with deterministic charting and Plotly visualizations | Python · Claude API · LangChain · React · FastAPI · Vite · TailwindCSS · Docker |
+| [🔬 ViT Robustness Lab](https://github.com/allenjoshua16/ViT-Robustness-Lab) | Adversarial robustness evaluation framework for Vision Transformers with SHAP attribution, confidence scoring, and interactive failure analysis | Python · PyTorch · Vision Transformers · SHAP · Deep Learning · Adversarial ML |
 
 ---
 
@@ -134,8 +73,8 @@ Rigorous adversarial robustness evaluation framework for Vision Transformers und
 
 | Project | Contribution | Status |
 |---------|-------------|--------|
-| [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) | PR #2858 — Data drift governance checks (KS, PSI, Chi-squared) + policy-driven enforcement | ✅ Submitted |
-| [Google ADK Python](https://github.com/google/adk-python) | Issue #4794 — `ignore_args` support for tool trajectory evaluator | 🔄 In Progress |
+| [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) | PR #2858 — Data drift governance checks using KS test, PSI, Chi-squared, and policy-driven enforcement | ✅ Submitted |
+| [Google ADK Python](https://github.com/google/adk-python) | Issue #4794 — `ignore_args` support for flexible tool trajectory evaluator comparisons | 🔄 In Progress |
 
 ---
 
@@ -148,19 +87,17 @@ Rigorous adversarial robustness evaluation framework for Vision Transformers und
 
 ## 🏆 Recognition
 
-| Award | Details |
-|-------|---------|
-| 🥇 Most Novel & Creative Award | Adversarial Robustness Framework for Vision Transformers — CSE-5360, Prof. Sihong He, Spring 2026 |
-| 📰 IEEE Published Researcher | Deep Learning for Urban Health Prediction — I2CT 2024 |
-| 🔬 Microsoft Research Reference | Letter from Prof. Sihong He — MSR GenAI Foundations Internship |
+- 🥇 **Most Novel & Creative Award** — Adversarial Robustness Framework for Vision Transformers (CSE-5360, Prof. Sihong He, Spring 2026)
+- 📰 **IEEE Published Researcher** — Deep Learning for Urban Health Prediction, I2CT 2024
+- 🔬 **Microsoft Research Reference** — Letter from Prof. Sihong He for MSR GenAI Foundations Internship
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=allenjoshua16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenjoshua16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=allenjoshua16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenjoshua16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=allenjoshua16&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
@@ -169,26 +106,20 @@ Rigorous adversarial robustness evaluation framework for Vision Transformers und
 
 ## 🎓 Education
 
-| Degree | Institution | Period | GPA |
-|--------|------------|--------|-----|
-| M.S. Data Science | University of Texas at Arlington, TX | Jan 2025 – Dec 2026 | 3.6 |
-| B.E. Information Technology | Don Bosco Institute of Technology, Mumbai University | 2020 – 2024 | 3.8 |
+- 🎓 **M.S. Data Science** — University of Texas at Arlington *(Jan 2025 – Dec 2026)* | GPA: 3.6
+- 🎓 **B.E. Information Technology** — Don Bosco Institute of Technology, Mumbai University *(2020 – 2024)* | GPA: 3.8
 
 ---
 
-## 🤝 Currently Open To
+## 💬 Let's Connect
 
-```
-✅  AI Engineer Internships & Co-ops (Summer / Fall 2026)
-✅  ML Engineer Roles
-✅  Applied Scientist positions
-✅  AI Governance & Safety Engineering roles
-✅  F-1 Student — CPT / OPT Authorized
-📍  Arlington, TX — Open to Remote & Relocation
-```
+I'm actively seeking **AI Engineer**, **ML Engineer**, **Applied Scientist**, and **AI Governance & Safety Engineering** roles for **Summer/Fall 2026**.
+Open to internships, co-ops, and contract roles. F-1 student with CPT/OPT authorization.
+
+📧 allenjoshua1217@gmail.com | 📍 Arlington, TX | 🌐 [Portfolio](https://allenjoshua16.github.io/portfolio)
 
 ---
 
 <p align="center">
-  <i>"The goal is not to build AI that impresses — it's to build AI that works, safely, at scale."</i>
+  <img src="https://komarev.com/ghpvc/?username=allenjoshua16&color=1F3864&style=flat" alt="Profile Views"/>
 </p>
