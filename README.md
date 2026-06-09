@@ -104,7 +104,6 @@ That's the problem space I want to work in.
 
 - 🥇 **Most Novel & Creative Award** — Adversarial Robustness Framework for Vision Transformers (CSE-5360, Prof. Sihong He, Spring 2026)
 - 📰 **IEEE Published Researcher** — Deep Learning for Urban Health Prediction, I2CT 2024
-- 🔬 **Microsoft Research Reference** — Letter from Prof. Sihong He for MSR GenAI Foundations Internship
 
 ---
 
@@ -121,8 +120,8 @@ That's the problem space I want to work in.
 
 ## 🎓 Education
 
-- 🎓 **M.S. Data Science** — University of Texas at Arlington *(Jan 2025 – Dec 2026)* | GPA: 3.6
-- 🎓 **B.E. Information Technology** — Don Bosco Institute of Technology, Mumbai University *(2020 – 2024)* | GPA: 3.8
+- 🎓 **M.S. Data Science** — University of Texas at Arlington *(Jan 2025 – Dec 2026)*
+- 🎓 **B.E. Information Technology** — Don Bosco Institute of Technology, Mumbai University *(2020 – 2024)*
 
 ---
 
