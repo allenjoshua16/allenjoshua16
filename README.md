@@ -1,6 +1,6 @@
 # Hi, I'm Allen Joshua 👋
 
-### AI Engineer & Data Scientist | M.S. Data Science @ UTA | IEEE Published Researcher
+### AI Engineer · Agentic Systems · LLM Infrastructure · AI Governance | M.S. Data Science @ UTA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/allen-joshua-264983252)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F3864?style=flat&logo=github&logoColor=white)](https://allenjoshua16.github.io/portfolio)
