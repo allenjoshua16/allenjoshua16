@@ -36,6 +36,20 @@ My work sits at the intersection of **frontier AI engineering** and **responsibl
 - **RAG & Retrieval Systems** — Developing end-to-end RAG pipelines with embedding optimization, chunking strategies, hybrid retrieval, reranking, and vector database management.
 - **LLM Evaluation & Red-Teaming** — Designing frameworks that stress-test reasoning, identify failure modes, reduce hallucination risk, and validate real-world edge cases.
 
+### 📚 What I'm Currently Learning
+- 🔬 **Advanced LLM Evaluation** — red-teaming techniques, failure mode taxonomy,
+  and building gold-standard ground-truth benchmarks for agentic systems
+- 🏗️ **Agent Infrastructure at Scale** — distributed agent orchestration,
+  stateful memory management, and multi-agent coordination patterns
+- 🛡️ **AI Safety & Governance Engineering** — policy enforcement frameworks,
+  model drift detection, bias auditing, and responsible AI deployment practices
+- ⚙️ **MLOps for Agentic Systems** — experiment tracking, model versioning,
+  canary deployments, and observability tooling for LLM-powered applications
+
+### 🎯 What Drives Me
+I believe the next generation of AI won't be defined by how capable models are —
+it will be defined by how **reliably**, **safely**, and **accountably** they operate in the real world.
+That's the problem space I want to work in.
 ---
 
 ## 🛠️ Tech Stack
