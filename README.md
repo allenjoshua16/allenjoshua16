@@ -12,9 +12,11 @@
 
 > *Building AI systems that don't just work — but work responsibly, reliably, and at scale.*
 
-I am a **Master's candidate in Data Science at the University of Texas at Arlington** (Dec 2026), IEEE published researcher, and award-winning AI engineer with 2+ years of professional experience building **production-grade agentic AI systems**, **LLM orchestration pipelines**, and **AI governance frameworks**.
+I'm a **Master's candidate in Data Science at the University of Texas at Arlington** (graduating December 2026), actively exploring the intersection of **agentic AI systems**,
+**LLM infrastructure**, and **AI governance** through hands-on projects and open source contributions.
 
-My work sits at the intersection of **frontier AI engineering** and **responsible AI deployment** — from designing autonomous multi-agent systems with MCP servers and RAG pipelines, to contributing AI governance tooling to Microsoft's Agent Governance Toolkit, to building open-source contributions to Google's `adk-python` evaluator framework.
+When I'm not in class, I'm building — autonomous agents, RAG pipelines, evaluation frameworks,
+and governance tooling that reflects how I think AI *should* be deployed: reliably, safely, and accountably.
 
 ---
 
