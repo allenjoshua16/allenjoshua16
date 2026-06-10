@@ -36,7 +36,6 @@ and governance tooling that reflects how I think AI *should* be deployed: reliab
 - **Agentic AI Systems** — Building autonomous agents that perceive, reason, and act in production workflows using stateful graph-based systems, tool-augmented agents, multi-agent coordination, and memory management.
 - **AI Governance & Policy Enforcement** — Contributing to governance tooling with statistical drift checks, policy-driven monitoring, and flexible agent evaluation workflows.
 - **RAG & Retrieval Systems** — Developing end-to-end RAG pipelines with embedding optimization, chunking strategies, hybrid retrieval, reranking, and vector database management.
-- **LLM Evaluation & Red-Teaming** — Designing frameworks that stress-test reasoning, identify failure modes, reduce hallucination risk, and validate real-world edge cases.
 
 ### 📚 What I'm Currently Learning
 - 🔬 **Advanced LLM Evaluation** — red-teaming techniques, failure mode taxonomy,
