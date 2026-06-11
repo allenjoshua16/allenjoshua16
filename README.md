@@ -128,7 +128,7 @@ That's the problem space I want to work in.
 
 ## 💬 Let's Connect
 
-I'm actively seeking **AI Engineer**, **Forward Deployed Engineer**, **ML Engineer**, **Applied Scientist**, **AI Governance & Safety Engineering** roles for **Summer/Fall 2026**.
+I'm actively seeking **AI Engineer**, **Forward Deployed Engineer**, **ML Engineer**, **Applied Scientist**, **AI Governance & Safety Engineering** roles for **Fall 2026**.
 Open to internships, co-ops, and contract roles. F-1 student with CPT/OPT authorization.
 
 📧 allenjoshua1217@gmail.com | 📍 Arlington, TX | 🌐 [Portfolio](https://allenjoshua16.github.io/portfolio)
